@@ -1,6 +1,6 @@
 <h1 align="center">
   <img alt="logo" src="https://user-images.githubusercontent.com/98329976/213940009-0fee9ef6-2ea6-4b4c-93ac-2d6b5cb7ea7b.png" width="224px"/><br/>
-  Minimalistic Whatsapp-web.js TypeScript Handler 
+  Whatsapp-web.js TypeScript Handler 
 </h1>
 <p align="center">Simple system for <b>Whatsapp-web.js</b> completely wtitten in <b>TypeScript</b> ~ Made by Jonas</p>
 
