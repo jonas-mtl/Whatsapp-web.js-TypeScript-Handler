@@ -43,8 +43,8 @@ execute: (...args: any[], client) => any;
 
 | Option | Description                                                               | Type   | Default | Required? |
 | ------ | ------------------------------------------------------------------------- | ------ | ------- | --------- |
-| `name` | Event name, for example: .on('<b>ready</b>')                            | `string` | | Yes        |
-| `execute` | Code being executed on Event |  |  | Yes        |
+| `name` | Event name, for example: .on('<b>ready</b>')                              | `string` | | Yes        |
+| `execute` | Code being executed on Event                                           |          |  | Yes        |
 
 ---
 
